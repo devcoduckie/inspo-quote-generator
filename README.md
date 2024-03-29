@@ -13,11 +13,11 @@ During the development of this project, I learned:
 
 ## Preview
 
-![Preview Image](preview.png)
+![Preview Image](inspo-preview.png)
 
 ## Credits
 
-This project was created as part of the [Scrimba](https://www.scrimba.com/) Frontend Developer bootcamp.
+This project was created as part of the [Scrimba](https://www.scrimba.com/){:target="\_blank"} Frontend Developer bootcamp.
 
 The inspirational quotes used in this project were sourced from various authors.
 
